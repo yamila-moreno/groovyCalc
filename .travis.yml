@@ -1,0 +1,5 @@
+language: groovy
+groovy:
+    - 2.3.9
+script:
+    - groovy test.groovy

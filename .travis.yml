@@ -4,4 +4,4 @@ groovy:
 jdk:
     - oraclejdk8
 script:
-    - groovy test.groovy
+    - groovy CalcTest.groovy

@@ -26,3 +26,6 @@ assert myCalc.sub(1) == 2
 assert myCalc.prod(2) == 4
 assert myCalc.prod(3) == 12
 assert myCalc.div(2) == 6
+
+// adding an error for travis
+assert myCalc.div(2) == 2

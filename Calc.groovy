@@ -1,22 +1,22 @@
 class Calc {
-    int res = 0
+    Integer res = 0
 
-    def add(n) {
+    Integer add(Integer n) {
         res = res + n
         return res
     }
 
-    def sub(n) {
+    Integer sub(Integer n) {
         res = res - n
         return res
     }
 
-    def prod(n) {
+    Integer prod(Integer n) {
         res = res * n
         return res
     }
 
-    def div(n) {
+    Integer div(Integer n) {
         res = res / n
         return res
     }
